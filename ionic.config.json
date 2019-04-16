@@ -1,0 +1,8 @@
+{
+  "name": "ionic3-background-geo",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
